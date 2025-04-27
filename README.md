@@ -44,7 +44,8 @@ Ctrl + Shift + P
 搜尋: Disable Cursor Tab
 
 
-# deploy to git hub
+# deploy to git hub 講專案推送到github
+
 git init
 git add .
 git commit -m "first commit"
